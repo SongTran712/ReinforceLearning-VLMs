@@ -1,6 +1,7 @@
 ## ReinforcementLearning-VLMs
 
-<b>Vision Language Model</b>
+<b>Vision Language Model:</b>
+
 In this repo, we study about Vision Language Models (VLMs) and Reinforcement Learning with Human Feedback.
 
 The model is built based on nanoVLM and VLM-from-Scratch folder, and rewrite in vlm.ipynb. 
