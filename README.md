@@ -6,7 +6,7 @@ In this repo, we study about Vision Language Models (VLMs) and Reinforcement Lea
 
 The model is built based on nanoVLM and VLM-from-Scratch folder, and rewrite in vlm.ipynb. 
 
-We have wraped it in Dockerfile and docker-compose file to train the base model. The model is trained on the and show good performance in chosen question.
+We have wraped it in Dockerfile and docker-compose file to train the base model. The model is trained on https://huggingface.co/datasets/HuggingFaceM4/the_cauldron dataset and show good performance in chosen question.
 
 <b>Reinforcement Learning:</b>
 
