@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+*.out
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Environment files
+.env
+.env.*
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
+
+# Coverage files
+coverage/
+*.cover
+*.coverage
+*.gcov
+
+# Test output
+test-output/
+*.pth

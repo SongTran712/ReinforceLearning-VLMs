@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+coverage.xml
+*.cover
+htmlcov/
+
+# Git and other VCS
+.git/
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+vlm_copy.ipynb
+vlm.ipynb

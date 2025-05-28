@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .  # directory containing the Dockerfile
+      dockerfile: Dockerfile  # optional if your file is named 'Dockerfile'
+    container_name: my-training-vlm
+    restart: always
+    # command: python script.py  # replace with your script name
+    volumes:
+      - ./dataset:/dataset
+      - ./checkpoints:/checkpoints  
